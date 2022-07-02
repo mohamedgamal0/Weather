@@ -19,6 +19,8 @@
 		28034AED2870786700B02CB8 /* ForecastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AEC2870786700B02CB8 /* ForecastView.swift */; };
 		28034AF028707B9500B02CB8 /* Blur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AEF28707B9500B02CB8 /* Blur.swift */; };
 		28034AF228707EFC00B02CB8 /* View + Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AF128707EFC00B02CB8 /* View + Extensions.swift */; };
+		28034AF628708B3500B02CB8 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AF528708B3500B02CB8 /* SegmentedControl.swift */; };
+		28034AF828708C6000B02CB8 /* ForecastModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AF728708C6000B02CB8 /* ForecastModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		28034AEC2870786700B02CB8 /* ForecastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastView.swift; sourceTree = "<group>"; };
 		28034AEF28707B9500B02CB8 /* Blur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blur.swift; sourceTree = "<group>"; };
 		28034AF128707EFC00B02CB8 /* View + Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View + Extensions.swift"; sourceTree = "<group>"; };
+		28034AF528708B3500B02CB8 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
+		28034AF728708C6000B02CB8 /* ForecastModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,7 @@
 		28034AD928705D5500B02CB8 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				28034AF728708C6000B02CB8 /* ForecastModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -141,6 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				28034AEF28707B9500B02CB8 /* Blur.swift */,
+				28034AF528708B3500B02CB8 /* SegmentedControl.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -238,6 +244,8 @@
 				28034AE528706AD900B02CB8 /* TabBar.swift in Sources */,
 				28034AF228707EFC00B02CB8 /* View + Extensions.swift in Sources */,
 				28034AED2870786700B02CB8 /* ForecastView.swift in Sources */,
+				28034AF828708C6000B02CB8 /* ForecastModel.swift in Sources */,
+				28034AF628708B3500B02CB8 /* SegmentedControl.swift in Sources */,
 				28034AE82870706B00B02CB8 /* Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
