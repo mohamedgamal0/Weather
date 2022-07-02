@@ -21,6 +21,7 @@
 		28034AF228707EFC00B02CB8 /* View + Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AF128707EFC00B02CB8 /* View + Extensions.swift */; };
 		28034AF628708B3500B02CB8 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AF528708B3500B02CB8 /* SegmentedControl.swift */; };
 		28034AF828708C6000B02CB8 /* ForecastModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AF728708C6000B02CB8 /* ForecastModel.swift */; };
+		28034AFE28708E9B00B02CB8 /* ForecastCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AFD28708E9B00B02CB8 /* ForecastCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		28034AF128707EFC00B02CB8 /* View + Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View + Extensions.swift"; sourceTree = "<group>"; };
 		28034AF528708B3500B02CB8 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
 		28034AF728708C6000B02CB8 /* ForecastModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastModel.swift; sourceTree = "<group>"; };
+		28034AFD28708E9B00B02CB8 /* ForecastCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 			children = (
 				28034AEF28707B9500B02CB8 /* Blur.swift */,
 				28034AF528708B3500B02CB8 /* SegmentedControl.swift */,
+				28034AFD28708E9B00B02CB8 /* ForecastCard.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -238,6 +241,7 @@
 			files = (
 				28034ACD28705A6900B02CB8 /* ContentView.swift in Sources */,
 				28034AE32870600300B02CB8 /* HomeView.swift in Sources */,
+				28034AFE28708E9B00B02CB8 /* ForecastCard.swift in Sources */,
 				28034AF028707B9500B02CB8 /* Blur.swift in Sources */,
 				28034AE128705E8F00B02CB8 /* Color + Extenion.swift in Sources */,
 				28034ACB28705A6900B02CB8 /* WeatherApp.swift in Sources */,
