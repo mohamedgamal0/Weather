@@ -14,6 +14,7 @@
 		28034AE128705E8F00B02CB8 /* Color + Extenion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AE028705E8F00B02CB8 /* Color + Extenion.swift */; };
 		28034AE32870600300B02CB8 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AE22870600300B02CB8 /* HomeView.swift */; };
 		28034AE528706AD900B02CB8 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AE428706AD900B02CB8 /* TabBar.swift */; };
+		28034AE82870706B00B02CB8 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28034AE72870706B00B02CB8 /* Shapes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		28034AE028705E8F00B02CB8 /* Color + Extenion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color + Extenion.swift"; sourceTree = "<group>"; };
 		28034AE22870600300B02CB8 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		28034AE428706AD900B02CB8 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		28034AE72870706B00B02CB8 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				28034ADF28705E7D00B02CB8 /* Extenions */,
+				28034AE72870706B00B02CB8 /* Shapes.swift */,
 			);
 			path = Utilites;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				28034AE128705E8F00B02CB8 /* Color + Extenion.swift in Sources */,
 				28034ACB28705A6900B02CB8 /* WeatherApp.swift in Sources */,
 				28034AE528706AD900B02CB8 /* TabBar.swift in Sources */,
+				28034AE82870706B00B02CB8 /* Shapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
